@@ -1,0 +1,16 @@
+QWidget {
+    border: 1.5px solid #fad778;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    padding: 0px 10px;
+    background-color: rgba(255, 255, 255, 0.9);
+    color: #2c3e50;
+    font-weight: 500;
+}
+
+QDoubleSpinBox:focus {
+    border-color: #fad778;
+    background-color: white;
+}

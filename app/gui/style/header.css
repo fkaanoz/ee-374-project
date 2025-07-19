@@ -1,0 +1,41 @@
+QWidget {
+    background-color: #fad778;
+    border-radius: 8px;
+}
+
+.titleLabel {
+    font-size: 30pt;
+    font-weight: 900;
+    color: white;
+    padding-left: 20px;
+}
+
+.mainPageLabel {
+    font-size: 14pt;
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-right: 40px;
+    padding-left: 40px;
+    color: black;
+}
+
+.cablesPageLabel {
+    font-size: 14pt;
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-right: 40px;
+    padding-left: 40px;
+    color: black;
+}
+
+.referencesPageLabel {
+    font-size: 14pt;
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-right: 40px;
+    padding-left: 40px;
+    color: black;
+}

@@ -1,0 +1,28 @@
+QWidget {
+    background-color: #D84040;
+    padding-top: 100px;
+}
+
+QLabel {
+    color: white;
+}
+
+.titleLabel {
+    font-family: Tektur;
+    font-size: 40pt;
+    font-size: larger;
+}
+
+.mottoLabel {
+    font-family: Tektur;
+    font-size: 15pt;
+}
+
+
+.versionLabel {
+    background-color: black;
+    padding: 2;
+    font-family: Tektur;
+    font-size: xx-large;
+    text-align: center;
+}

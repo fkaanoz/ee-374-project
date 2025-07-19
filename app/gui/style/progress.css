@@ -1,0 +1,22 @@
+QWidget {
+    padding:4px;
+    margin-top: 4px;
+}
+
+QLabel {
+    font-size: 15px;
+    font-weight: 500;
+    color : gray;
+}
+
+QLabel[class="passedStep"] {
+    color : rgb(176, 176, 176);
+    font-size: 15px;
+    font-weight: 500;
+}
+
+QLabel[class="currentStep"] {
+    color : black;
+    font-size: 15px;
+    font-weight: 500;
+}

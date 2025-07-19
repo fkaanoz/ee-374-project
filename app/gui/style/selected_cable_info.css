@@ -1,0 +1,12 @@
+QLabel {
+    text-align: center;
+    padding-left: 6px;
+    padding-right: 6px;
+    padding-bottom: 4px;
+    padding-top: 4px;
+    
+    background-color: #F7F7F7;
+    border: 0.8px solid #666666;
+}
+
+    

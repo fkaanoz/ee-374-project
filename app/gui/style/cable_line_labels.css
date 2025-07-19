@@ -1,0 +1,9 @@
+QLabel {
+    padding: 2px;
+    color: black;
+}
+
+.cableID {
+    font-weight: 800;
+    border-left: 3px solid;
+}

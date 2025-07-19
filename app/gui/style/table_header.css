@@ -1,0 +1,19 @@
+QLabel {
+    text-align:center;
+    background-color: #222222;
+    color: white;
+    padding-bottom: 10px;
+    padding-top: 12px;
+    font-size: 12px;
+    font-weight: bold
+}
+
+.evenLabels {
+    background-color: #e0e0e0;
+    color: #222222;
+}
+
+
+.emptyLabel {
+    background-color: #F7F7F7;
+}

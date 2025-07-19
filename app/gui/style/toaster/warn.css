@@ -1,0 +1,14 @@
+QWidget .WarnToaster   {
+    padding: 0;
+    margin: 0;
+    border: 1px solid white;
+    background-color: #fad778;
+}
+
+
+QLabel {
+    background-color: #fad778;
+    color: black;
+    font-size: 14pt;
+    /* font-family: Tektur; */
+}

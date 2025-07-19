@@ -1,0 +1,14 @@
+QWidget .SuccessToaster   {
+    padding: 0;
+    margin: 0;
+    border: 1px solid white;
+    background-color: green;
+}
+
+
+QLabel {
+    background-color: green;
+    color: white;
+    font-size: 14pt;
+    font-family: Tektur;
+}

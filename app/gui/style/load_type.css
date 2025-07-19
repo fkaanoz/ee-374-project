@@ -1,0 +1,9 @@
+QWidget {
+    font-weight: 500;
+    color: black;
+    padding-top: 4px;
+}
+
+QRadioButton {
+    padding: 10px;
+}

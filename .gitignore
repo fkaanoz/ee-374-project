@@ -1,0 +1,12 @@
+.idea
+__pycache__/
+.venv/
+
+# There are other dirs include __pycache__
+**/__pycache__/
+
+
+.DS_Store
+
+build/
+dist/
